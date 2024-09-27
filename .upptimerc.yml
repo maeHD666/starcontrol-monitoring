@@ -19,6 +19,11 @@ status-website:
     - title: Status
       href: /
 
+NOTIFICATION:
+ NOTIFICATION_DISCORD: True
+ NOTIFICATION_DISCORD_WEBHOOK: True
+ NOTIFICATION_DISCORD_WEBHOOK_URL: $WEBHOOK_URL
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
