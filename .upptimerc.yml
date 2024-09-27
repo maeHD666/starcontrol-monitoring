@@ -18,11 +18,11 @@ status-website:
   logoUrl: "https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg"
   introTitle: "Status von StarControl"
   introMessage: "Status" 
-  name: StarControl Monitoring
+  name: "StarControl Monitoring"
   navbar:
-    - title: Status
+    - title: "Status"
       href: "/"
-    - title: Test
+    - title: "Test"
       href: "/"
 
 NOTIFICATION:
