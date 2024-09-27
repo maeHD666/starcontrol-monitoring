@@ -4,19 +4,19 @@
     "url": "45.81.235.72",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "star-control-discord",
-    "status": "down",
-    "uptime": "97.91%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.91%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "94.55%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "94.55%",
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-09-27": 3
+      "2024-09-27": 8
     }
   }
 ]
