@@ -15,6 +15,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /starcontrol-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  introTitle: "Status von StarControl"
+  introMessage: "Status" 
   name: StarControl Monitoring
   navbar:
     - title: Status
