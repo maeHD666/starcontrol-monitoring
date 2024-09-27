@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "star-control-discord",
     "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "uptime": "95.75%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "95.75%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
@@ -18,23 +18,5 @@
     "dailyMinutesDown": {
       "2024-09-27": 8
     }
-  },
-  {
-    "name": "Google",
-    "url": "https://google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 158,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
-    "dailyMinutesDown": {}
   }
 ]
